@@ -11,6 +11,15 @@
 - timeout value = sec 5, usec 5000.
 - Client based on TCP multiprocess with I/O routine split.
 
+#### 사용 방법
+- 서버
+  + 코드 컴파일 후 실행
+  + "[ip 주소] [port 번호]" 입력
+- 클라이언트
+  + 코드 컴파일 후 실행
+  + "[IP 주소] [port 번호] [이름]" 입력
+  + 전송하고자 하는 메시지 
+
 ***
 
 ### 2_Multithreading_Chat_App
