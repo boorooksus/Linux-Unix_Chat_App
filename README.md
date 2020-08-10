@@ -21,7 +21,7 @@
   + 전송하고자 하는 메시지 입력
   
 #### 예시
-![cn hw 1 eg2](https://user-images.githubusercontent.com/55964775/89794085-88b38b00-db61-11ea-95cb-1a9074943c85.jpg)
+![cn hw 1 eg2](https://user-images.githubusercontent.com/55964775/89794085-88b38b00-db61-11ea-95cb-1a9074943c85.jpg){: width="100" height="100"}
 
 
 ***
